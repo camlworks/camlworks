@@ -221,7 +221,7 @@ decisions internally to Caml Works.
 The chair of Caml Works must nominate a sequence of delegates from among the
 members, to act as the chair in case of the extended absence of the chair. The
 chair of Caml Works must grant delegates administrative access rights to
-everything uesd by Caml Works itself: the GitHub organization and all of Caml
+everything used by Caml Works itself: the GitHub organization and all of Caml
 Works' public communication channels.
 
 <br>
