@@ -58,9 +58,9 @@ Project owners retain full ownership and control of their projects and cannot be
 separated from their projects by Caml Works in any way, except by explicit
 mutual agreement.
 
-Projects can be disassociated from Caml Works by their owners at any time for
-any reason, especially including if this charter changes in a way that is not
-acceptable to a project owner.
+Projects can be disassociated from Caml Works unilaterally by their owners at
+any time for any reason, especially including if this charter changes in a way
+that is not acceptable to a project owner.
 
 Unless explicitly agreed otherwise, project owners remain owners during an
 absence, and can resume their active ownership of their projects upon return.
